@@ -29,3 +29,4 @@ Built during the **PEC Generative AI Hackathon**, this app showcases how even sm
 
 ---
 
+🗓️ Doctor's appointment Google Sheet can be viewed at: [Click here to view](https://docs.google.com/spreadsheets/d/17BRANwEYVS09J4FlZ44q11RgSKxqgBuGYbHeMV9NHKs/edit?gid=0#gid=0)
