@@ -1,0 +1,123 @@
+
+CITY DENTAL CLINIC - CHATBOT DATA
+---------------------------------
+
+DOCTOR PROFILES
+
+1. Dr. Ambreen Atif
+- Qualification: BDS, MDS
+- Specialization: Orthodontist
+- Services: Teeth and jaw alignment using wires, braces, retainers, and other devices.
+- Available Days: Monday to Friday
+- Timings: 10 AM – 2 PM
+- Consultation Charges: 5000 PKR
+
+2. Dr. Faiq Qavi
+- Qualification: BDS, MDS
+- Specialization: Endodontist
+- Services: Treat nerve issues in teeth, root canal treatment, pain management.
+- Available Days: Tuesday to Saturday
+- Timings: 3 PM – 7 PM
+- Consultation Charges: 2000 PKR
+
+3. Dr. M. Shariq
+- Qualification: BDS
+- Specialization: General Dentistry
+- Services: Teeth cleaning and routine dental exams.
+- Available Days: Monday to Saturday
+- Timings: 8 AM – 2 PM
+- Consultation Charges: 1000 PKR
+
+4. Dr. Amir Danish
+- Qualification: BDS, MDS
+- Specialization: Periodontist
+- Services: Gum disease treatment and dental implants.
+- Available Days: Wednesday to Sunday
+- Timings: 11 AM – 3 PM
+- Consultation Charges: 3000 PKR
+
+5. Dr. Saba Fatima
+- Qualification: BDS, MDS (Pediatric Dentistry)
+- Specialization: Pediatric Dentist (Pedodontist)
+- Services: Dental care for infants to teenagers.
+- Available Days: Tuesday to Wednesday
+- Timings: 9 AM – 1 PM
+- Consultation Charges: 3000 PKR
+
+6. Dr. Ahmed Ali
+- Qualification: BDS, M.Phil. (Pathology)
+- Specialization: Oral Pathologist / Oral Surgeon
+- Services: Oral surgery and treatment of oral diseases.
+- Available Days: Monday
+- Timings: 12 AM – 2 PM
+- Consultation Charges: 5000 PKR
+
+7. Dr. Kashif
+- Qualification: BDS, RDS, DGDS, M.Phil.
+- Specialization: Prosthodontist
+- Services: Cosmetic treatments (e.g., teeth whitening, veneers).
+- Available Days: Monday, Wednesday, Friday
+- Timings: 2 PM – 5 PM
+- Consultation Charges: 3000 PKR
+
+---------------------------------
+
+COMMON SYMPTOMS & SUGGESTED SPECIALISTS
+
+Symptom: Tooth pain while eating sweets
+- Description: Tooth decay / cavity
+- Suggested Specialization: Endodontist
+
+Symptom: Bleeding gums while brushing
+- Description: Gum infection
+- Suggested Specialization: Periodontist
+
+Symptom: Misaligned or crooked teeth
+- Description: Orthodontic issues
+- Suggested Specialization: Orthodontist
+
+Symptom: General tooth cleaning or check-up
+- Description: Routine dental care
+- Suggested Specialization: General Dentistry
+
+Symptom: Pain after root canal
+- Description: Infection or inflammation
+- Suggested Specialization: Endodontist
+
+Symptom: Bad breath and gum swelling
+- Description: Periodontal disease
+- Suggested Specialization: Periodontist
+
+---------------------------------
+
+DISEASE INFORMATION (FAQs)
+
+Q: What is a dental cavity?
+A: A cavity is a hole in the tooth caused by decay due to poor hygiene, sugary foods, and lack of fluoride.
+
+Q: What is gingivitis?
+A: Inflammation of the gums due to plaque buildup. Symptoms include red, swollen gums that bleed easily.
+
+Q: What is a root canal?
+A: A procedure to remove infected pulp inside a tooth and seal it to prevent further infection.
+
+Q: What causes bad breath?
+A: Common causes include poor hygiene, gum disease, dry mouth, or certain foods.
+
+Q: Why do teeth get sensitive to hot and cold?
+A: Tooth sensitivity can be due to enamel wear, gum recession, or exposed dentin.
+
+Q: What is the contact number of hospital for further querries?
+A: 0519384373293 
+
+Q: What is the address of the hospital?
+A: Sector G-8, Islamabad, Pakistan
+
+...
+
+
+Additional info:
+Address: Sector G-8, Islamabad, Pakistan
+ 
+
+Contact  number is 0519384373293
