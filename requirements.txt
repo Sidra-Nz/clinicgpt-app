@@ -1,0 +1,12 @@
+streamlit
+langchain>=0.1.14
+faiss-cpu
+pandas
+openpyxl
+sentence-transformers
+langchain-community
+gspread
+oauth2client
+pandas
+langchain
+openai
